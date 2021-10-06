@@ -1,2 +1,2 @@
-const kDefaultOpacity = 0.75;
+const kDefaultOpacity = 0.3;
 const kImageHeight = 250.0;
